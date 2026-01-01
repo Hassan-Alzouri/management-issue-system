@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="hassan11244ConStrXXX-Web.config Connection String" description="hassan11244ConStrXXX Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-0EI6DT1L\SQLEXP2017;Initial Catalog=hassan11244;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\projects\\hassan11244WebApp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='hassan11244ConStrXXX']/@connectionString" />
+  </parameter>
+  <parameter name="hassan11244ConStr-Web.config Connection String" description="hassan11244ConStr Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL1004.site4now.net;Initial Catalog=db_abccc7_hassan11244;User Id=db_abccc7_hassan11244_admin;Password=IAU11244" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\projects\\hassan11244WebApp1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='hassan11244ConStr']/@connectionString" />
+  </parameter>
+</parameters>
